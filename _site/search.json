@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nAttach the palmerspenguins package\n\n\n1. Examine at the dataset using the ?Help page\n\n\n2. what is the class of the penguins dataset?\n\n\n3. what is the structure of the penguins dataset?\n\n\n4. what are the dimensions of the penguins dataset?\n\n\n5. what are the column names of the penguins dataset?\n\n\n6. what type of data is flipper_length_mm and Island?\n\n\n7. what is the mean flipper length of the penguins?\n\n\n8. what is the standard deviation of flipper length in the penguins?\n\n\n9. what is the median body mass of the penguins?\n\n\n10. what is the Island of the 100th penguin?"
   },
   {
     "objectID": "index.html",
