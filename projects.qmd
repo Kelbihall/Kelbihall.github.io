@@ -9,24 +9,19 @@ format: html
 
 # My Projects
 
-## **Reservoir Evaporation Data Analysis**
+## **PATCHWORK INITIATIVE**
 
--   Conducted time-series analysis on evaporation data from **1956 onward**.
--   Used **Python & Excel** to identify long-term trends in **Texas and surrounding states**.
--   Worked with **Texas Water Development Board** to improve **water allocation models**.
--   [View Project on GitHub](https://github.com/your-username/reservoir-analysis)
+-   As Co-Coordinator, I organize workshops, events, and campaigns that educate students on ethical fashion, textile recycling, and sustainable garment choices. My work involves developing strategies to reduce textile waste, advocate for circular economy principles in the fashion industry, and encourage long-term adoption of sustainable fashion practices by integrating industry trends and research into campus activities.
 
-## **Environmental Data Visualization**
+## **ZERO WASTE TEAM**
 
--   Developed interactive plots in **RStudio** using `ggplot2`.
--   Analyzed climate impacts on **river flow rates**.
--   Created a **Quarto report** for public outreach.
+-   As the Communications Officer for the Zero Waste Team at Colorado State University, I, along with my fellow students, have spearheaded a number of initiatives aimed at promoting sustainable practices in the clothing industry including; mending meetings clothing swaps, and informational presentations.
 
-## **Sustainable Infrastructure Research**
+## **SUSTAINABLE COTTON PRODUCTION RESEARCH PAPER**
 
--   Assisted in **civil engineering projects** focusing on **river reclamation**.
--   Studied **urban water management techniques**.
+-   During my coursework at Colorado State University I had the option to write a 10 page research paper on any topic and I developed a detailed report on sustainable cotton production, evaluating its environmental and economic impacts. The report highlights the significant issues with conventional cotton farming, such as excessive water usage, pesticide pollution, and soil degradation, while proposing solutions like organic cotton and the Better Cotton Initiative. These methods offer promising reductions in water consumption, pesticide use, and carbon emissions. Through this project, I examined the balance between environmental sustainability and economic feasibility, advocating for incremental implementation of sustainable practices to benefit both the environment and long-term industry economics.
 
 ------------------------------------------------------------------------
 
-Want to see my work? Check out my [GitHub Portfolio](https://github.com/your-username).
+\*\*Download the Full Project Report (PDF)\*\*
+👉 \[Click here to view/download\](files/project.pdf)
