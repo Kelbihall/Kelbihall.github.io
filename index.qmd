@@ -1,5 +1,5 @@
 ---
-title: "kelbihall.github.io"
+title: "kelbihall"
 ---
 
 ![](img/profile.jpg){width="200px"}
