@@ -1,5 +1,5 @@
 ---
-title: "Kelbihall"
+title: "Kelbi Hall"
 toc: false
 about:
   template: jolla
@@ -15,7 +15,7 @@ format:
   <img src="img/profile.jpg" width="200px" style="border-radius: 50%">
 </div>
 
-📍 **Hometown**: [Fort Collins, CO]  
+📍 **Hometown**: Fort Collins, CO  
 📫 **Email**: [kelbi.hall@example.com](mailto:kelbi.hall@example.com)  
 🐙 **GitHub**: [github.com/Kelbihall](https://github.com/Kelbihall)  
-🔗 **LinkedIn**: [www.linkedin.com/in/kelbihall]
+🔗 **LinkedIn**: [linkedin.com/in/kelbihall](https://linkedin.com/in/kelbihall)
