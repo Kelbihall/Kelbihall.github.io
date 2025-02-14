@@ -3,7 +3,7 @@ title: "Resume"
 format: html
 ---
 
-# Kelbi Hall - Resume
+# Kelbi Hall
 
 Kelbi Hall Fort Collins, CO • Kelbi.Hall\@gmail.com • 214-455-1624 • www.linkedin.com/in/kelbihall
 
@@ -30,9 +30,9 @@ September 2024 – Present
 
 **Zero Waste Team Officer**
 
--    Perform waste audits for student events
+-   Perform waste audits for student events
 
--    Educational campaigns on sustainable practices
+-   Educational campaigns on sustainable practices
 
 August 2023 – Present
 
@@ -40,7 +40,7 @@ August 2023 – Present
 
 -   Engage with a global network of fashion professionals
 
--    Follow industry trends, challenges and technologies
+-   Follow industry trends, challenges and technologies
 
 September 2024 – Present
 
@@ -52,7 +52,7 @@ September 2024 – Present
 
 September 2024 – Present
 
-### EXPERIENCE 
+### EXPERIENCE
 
 **Student Photographer and Sustainability Media Specialist**
 
@@ -60,7 +60,7 @@ Colorado State University Housing and Dining
 
 Fort Collins, CO August 2023 – Present
 
--    Self-sufficiently produce photo and video content to promote university housing and dining services, focusing on sustainability initiatives.
+-   Self-sufficiently produce photo and video content to promote university housing and dining services, focusing on sustainability initiatives.
 
 -   Collaborate with university sustainability and marketing teams to promote university initiatives.
 
@@ -70,10 +70,12 @@ Fort Collins, CO August 2023 – Present
 
     Fort Collins, CO and Dallas, TX May 2019 – Present
 
--    Operate a full-service photography business specializing in events, portraits, and client-driven projects.
+-   Operate a full-service photography business specializing in events, portraits, and client-driven projects.
 
--    Manage client relationships with smooth communication and dependability.
+-   Manage client relationships with smooth communication and dependability.
 
-### SKILLS  
+### SKILLS
 
 • Microsoft Suite • Data Analysis • Adobe Creative Cloud • Project Management
+
+**Download my [full resume (PDF)](files/Resume.pdf)**
