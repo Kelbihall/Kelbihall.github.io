@@ -1,3 +1,32 @@
 ---
 title: "Projects"
 ---
+
+---
+title: "Projects"
+format: html
+---
+
+# My Projects
+
+## **Reservoir Evaporation Data Analysis**
+
+-   Conducted time-series analysis on evaporation data from **1956 onward**.
+-   Used **Python & Excel** to identify long-term trends in **Texas and surrounding states**.
+-   Worked with **Texas Water Development Board** to improve **water allocation models**.
+-   [View Project on GitHub](https://github.com/your-username/reservoir-analysis)
+
+## **Environmental Data Visualization**
+
+-   Developed interactive plots in **RStudio** using `ggplot2`.
+-   Analyzed climate impacts on **river flow rates**.
+-   Created a **Quarto report** for public outreach.
+
+## **Sustainable Infrastructure Research**
+
+-   Assisted in **civil engineering projects** focusing on **river reclamation**.
+-   Studied **urban water management techniques**.
+
+------------------------------------------------------------------------
+
+Want to see my work? Check out my [GitHub Portfolio](https://github.com/your-username).
