@@ -23,5 +23,4 @@ format: html
 
 ------------------------------------------------------------------------
 
-\*\*Download the Full Project Report (PDF)\*\*
-👉 \[Click here to view/download\](files/project.pdf)
+**Download my [full Project (PDF)](files/project.pdf)**
