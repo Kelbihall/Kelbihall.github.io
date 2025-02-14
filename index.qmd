@@ -1,14 +1,21 @@
 ---
-title: "kelbihall"
+title: "Kelbihall"
+toc: false
+about:
+  template: jolla
+format:
+  html:
+    theme: flatly
+    css: styles.css
 ---
 
-![](img/profile.jpg){width="200px"}
+*Sustainability Student | Circular Fashion Advocate | Photographer*
 
+<div style="text-align: center;">
+  <img src="img/profile.jpg" width="200px" style="border-radius: 50%">
+</div>
 
-## Connect with Me
-
-**[LinkedIn](https://www.linkedin.com/in/kelbihall)** 
-
-**[GitHub](https://github.com/Kelbihall)**  
-
-**[Email](mailto:Kelbi.hall@gmail.com)**
+📍 **Hometown**: [Fort Collins, CO]  
+📫 **Email**: [kelbi.hall@example.com](mailto:kelbi.hall@example.com)  
+🐙 **GitHub**: [github.com/Kelbihall](https://github.com/Kelbihall)  
+🔗 **LinkedIn**: [www.linkedin.com/in/kelbihall]
