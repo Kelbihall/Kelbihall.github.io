@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Kelbihall"
+  title: "Kelbihall.github.io"
   navbar:
     left:
       - href: index.qmd
@@ -30,4 +30,4 @@ website:
 format:
   html:
     theme: minty
-    css: styles.css  # We will use a simple CSS file
+    css: styles.css 
