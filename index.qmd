@@ -1,5 +1,5 @@
 ---
-title: "Kelbhall"
+title: "Kelbihall"
 toc: false
 about:
   template: jolla
