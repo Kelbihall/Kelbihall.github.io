@@ -1,3 +1,8 @@
 ---
 title: "Resume"
+format: html
 ---
+
+# **Kelbi’s Resume**
+
+## **Education**

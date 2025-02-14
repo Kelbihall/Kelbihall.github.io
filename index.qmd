@@ -1,3 +1,14 @@
 ---
-title: "Kelbihall"
+title: "Welcome to My Portfolio!"
 ---
+
+![](img/profile.jpg){width="200px"}
+
+
+## Connect with Me
+
+**[LinkedIn](https://www.linkedin.com/in/kelbihall)** 
+
+**[GitHub](https://github.com/Kelbihall)**  
+
+**[Email](mailto:Kelbi.hall@gmail.com)**

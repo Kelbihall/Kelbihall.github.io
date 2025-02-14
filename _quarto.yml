@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Kelbihall"
+  title: "Kelbi Hall"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+  page-footer:
+    left: "© 2025 Kelbi Hall. All rights reserved."
+    right: "Built with Quarto & GitHub Pages"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
-
-editor: visual
-
