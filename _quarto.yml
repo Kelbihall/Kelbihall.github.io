@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Kelbi Hall"
+  title: "Kelbihall"
   navbar:
+    background: primary  \
     left:
       - href: index.qmd
         text: Home
@@ -14,11 +15,20 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
+    right:
+      - text: Contact
+        menu:
+          - href: mailto:kelbi.hall@example.com
+            text: Email
+          - href: https://github.com/Kelbihall
+            text: GitHub
+          - href: https://linkedin.com/in/kelbihall
+            text: LinkedIn
   page-footer:
     left: "© 2025 Kelbi Hall. All rights reserved."
     right: "Built with Quarto & GitHub Pages"
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: minty  
+    css: styles.scss
