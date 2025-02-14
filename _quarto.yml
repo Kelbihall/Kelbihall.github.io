@@ -5,7 +5,6 @@ project:
 website:
   title: "Kelbihall"
   navbar:
-    background: primary  \
     left:
       - href: index.qmd
         text: Home
@@ -30,5 +29,5 @@ website:
 
 format:
   html:
-    theme: minty  
-    css: styles.scss
+    theme: minty
+    css: styles.css  # We will use a simple CSS file

@@ -1,1 +1,15 @@
-/* css styles */
+/* Navbar styles */
+.navbar {
+  background-color: #2C3E50; /* Dark blue */
+  padding: 10px;
+}
+
+.navbar a {
+  color: white !important;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+.navbar a:hover {
+  color: #1ABC9C !important; /* Teal hover effect */
+}
