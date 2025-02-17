@@ -7,6 +7,25 @@ format:
   html:
     theme: flatly
     css: styles.css
+    
+    links: 
+navbar:
+  right:
+    - text: "Email"
+      icon: envelope  
+      href: "mailto:Kelbi.hall@gmail.com"
+      target: "_blank"
+
+    - text: "LinkedIn"
+      icon: linkedin
+      href: "https://linkedin.com/in/kelbihall"
+      target: "_blank"
+
+    - text: "GitHub"
+      icon: github  
+      href: "https://github.com/Kelbihall"
+      target: "_blank"
+
 ---
 
 *Sustainability Student | Circular Fashion Advocate | Photographer*
@@ -14,8 +33,3 @@ format:
 <div style="text-align: center;">
   <img src="img/profile.jpg" width="200px" style="border-radius: 50%">
 </div>
-
-📍 **Hometown**: Fort Collins, CO  
-**Email**: [kelbi.hall@example.com](mailto:kelbi.hall@example.com)  
-**GitHub**: [github.com/Kelbihall](https://github.com/Kelbihall)  
-**LinkedIn**: [linkedin.com/in/kelbihall](www.linkedin.com/in/kelbihall)
