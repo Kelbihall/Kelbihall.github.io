@@ -1,5 +1,5 @@
 ---
-title: "Kelbihall.github.io"
+title: "Kelbi Hall"
 toc: false
 about:
   template: jolla
