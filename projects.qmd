@@ -60,10 +60,9 @@ This lab gave me the opportunity to connect my interests in sustainability and d
 
 I used the CAMELS dataset to predict mean streamflow (`q_mean`) using an XGBoost model. This included cleaning data, tuning hyperparameters, and evaluating predictions.
 
-![](img/6)
+![](img/ML.png)
 
 **Reflection:**\
-
 This was my first time implementing a full machine learning workflow. I learned how important clean data and model tuning are for accurate environmental predictions.
 
 ### Lab 7: Final Project Intro and Methods
