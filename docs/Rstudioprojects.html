@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me – Kelbihall.github.io</title>
+<title>Projects – Kelbihall.github.io</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -142,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -159,12 +159,95 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welcome-to-my-portfolio" class="level1">
-<h1>Welcome to My Portfolio!</h1>
-<p>Hi, I’m Kelbi Hall. I’m a dedicated college student with a passion for corporate sustainability, seeking an internship opportunity to apply academic knowledge in real world scenarios.From an early age, I have been deeply committed to environmentally conscious initiatives and sustainability communications.</p>
-<p>I aspire to make a meaningful impact in the corporate world by leveraging my education, passion, creative and photography skills, to advocate for and implement sustainable practices within the fashion industry.</p>
+<section id="lab-projects" class="level1">
+<h1>Lab Projects</h1>
+<p>Welcome to my RStudio project portfolio! Here’s what I’ve learned from each of the 11 labs in ESS 330 (Quantitative Reasoning for Ecosystem Science)</p>
+<section id="lab-1-intro-to-github-pages" class="level3">
+<h3 class="anchored" data-anchor-id="lab-1-intro-to-github-pages">Lab 1: Intro to GitHub Pages</h3>
+<p>In this lab, I created my own personal website using Quarto and GitHub Pages. I learned how to structure a <code>.qmd</code> file, edit the YAML header, and deploy content to a live site.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This lab helped me set the foundation for sharing my work publicly. It was empowering to build a site from scratch and understand how version control works through GitHub.</p>
+</section>
+<section id="lab-2-minnesota-tree-growth" class="level3">
+<h3 class="anchored" data-anchor-id="lab-2-minnesota-tree-growth"><strong>Lab 2: Minnesota tree growth</strong></h3>
+<p>Manipulating and summarizing data with dplyr explored digital elevation data by importing a raster file and analyzing the terrain of Fort Collins. I used R to calculate elevation statistics and visualize patterns in topography.</p>
+</section>
+<section id="lab-2-manipulating-and-summarizing-data-with-dplyr" class="level2">
+<h2 class="anchored" data-anchor-id="lab-2-manipulating-and-summarizing-data-with-dplyr">Lab 2: Manipulating and summarizing data with dplyr</h2>
+<p>Here’s a snapshot of the raw data before cleaning:</p>
+<p>Rows: 131,386 Columns: 8 $ treeID <int> 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, … $ standID <int> 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, … $ stand <chr> “A1”, “A1”, “A1”, “A1”, “A1”, “A1”, “A1… $ year <int> 1960, 1961, 1962, 1963, 1964, 1965, 196… $ species <chr>”ABBA”, “ABBA”, “ABBA”, “ABBA”, “ABBA”,… $ age <int> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, … $ inc <dbl> 0.930, 0.950, 0.985, 0.985, 0.715, 0.84…</dbl></int></chr></int></chr></int></int></p>
+<p>After cleaning and transforming the data, I was able to calculate tree diameter (DBH), basal area (BA), and categorize trees into DBH classes. I also used summary statistics to analyze growth patterns by species and over time.</p>
+<p><strong>Reflection:</strong><br>
+This lab taught me how to use <code>dplyr</code> to clean and summarize a large dataset efficiently. It gave me a strong foundation in data wrangling—filtering, grouping, and creating new variables—all essential for ecological analysis.</p>
+<p><img src="img/lab2.png" class="img-fluid"></p>
+<p><strong>Reflection:</strong> This lab taught me how to filter, transform, and summarize large ecological datasets using <code>dplyr</code>. I used functions like <code>mutate()</code>, <code>case_when()</code>, and <code>group_by()</code> to derive insights like tree basal area and size class.</p>
+<section id="lab-3-raster-histograms-and-visualization" class="level3">
+<h3 class="anchored" data-anchor-id="lab-3-raster-histograms-and-visualization">Lab 3: Raster Histograms and Visualization</h3>
+<p>This lab focused on raster visualization techniques. I learned how to classify elevation data into bins and use color gradients and hillshade to enhance interpretation.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This lab pushed me to think critically about how data visualization choices impact how geographic patterns are understood.</p>
+</section>
+<section id="lab-4-raster-math-and-units" class="level3">
+<h3 class="anchored" data-anchor-id="lab-4-raster-math-and-units">Lab 4: Raster Math and Units</h3>
+<p>I performed raster calculations including unit conversions from centimeters to feet and learned how to rescale data to different formats and magnitudes.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>It was helpful to manipulate elevation data directly and explore how raster math can inform environmental analysis.</p>
+</section>
+<section id="lab-5-raster-reprojection-and-cropping" class="level3">
+<h3 class="anchored" data-anchor-id="lab-5-raster-reprojection-and-cropping">Lab 5: Raster Reprojection and Cropping</h3>
+<p>In this lab, I used <code>AOI</code> and <code>USAboundaries</code> to crop and reproject spatial data. I learned how coordinate reference systems affect spatial analysis.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This lab deepened my understanding of projections and how critical they are when aligning spatial data from different sources.</p>
+</section>
+<section id="lab-6-machine-learning-with-camels" class="level3">
+<h3 class="anchored" data-anchor-id="lab-6-machine-learning-with-camels">Lab 6: Machine Learning with CAMELS</h3>
+<p>I used the CAMELS dataset to predict mean streamflow (<code>q_mean</code>) using an XGBoost model. This included cleaning data, tuning hyperparameters, and evaluating predictions.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This was my first time implementing a full machine learning workflow. I learned how important clean data and model tuning are for accurate environmental predictions.</p>
+</section>
+<section id="lab-7-data-cleaning-with-camels" class="level3">
+<h3 class="anchored" data-anchor-id="lab-7-data-cleaning-with-camels">Lab 7: Data Cleaning with CAMELS</h3>
+<p>Building off Lab 6, I performed deeper data cleaning, handled missing values, and examined data distributions to prepare for more robust modeling.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This lab taught me how to recognize and handle messy environmental data and the value of preprocessing in any analysis pipeline.</p>
+</section>
+<section id="lab-8-modeling-and-mapping-predictions" class="level3">
+<h3 class="anchored" data-anchor-id="lab-8-modeling-and-mapping-predictions">Lab 8: Modeling and Mapping Predictions</h3>
+<p>I mapped XGBoost model predictions across the CONUS region using geospatial tools. I also evaluated model accuracy using spatial cross-validation.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>It was exciting to see model outputs visualized across a real geographic scale. This helped me connect statistical modeling with spatial insight.</p>
+</section>
+<section id="lab-9-county-level-population-and-land-use" class="level3">
+<h3 class="anchored" data-anchor-id="lab-9-county-level-population-and-land-use">Lab 9: County-Level Population and Land Use</h3>
+<p>I joined raster and vector data to explore land cover and population distributions. I used spatial joins to identify intersections between counties and land cover types.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This lab improved my skills working with multiple spatial data types and set the stage for real-world environmental planning.</p>
+</section>
+<section id="lab-10-distance-from-the-border-zone" class="level3">
+<h3 class="anchored" data-anchor-id="lab-10-distance-from-the-border-zone">Lab 10: Distance from the Border Zone</h3>
+<p>I analyzed spatial proximity to the U.S. border zone and explored how distance calculations are used in policy and surveillance contexts.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This lab was a great example of how spatial analysis applies to real policy issues. It challenged me to think critically about data and ethics.</p>
+</section>
+<section id="lab-11-river-profile-of-the-cache-la-poudre" class="level3">
+<h3 class="anchored" data-anchor-id="lab-11-river-profile-of-the-cache-la-poudre">Lab 11: River Profile of the Cache la Poudre</h3>
+<p>I extracted a river profile using OpenStreetMap and DEM data, calculated the river’s slope and sinuosity, and plotted its elevation profile.</p>
+<p><strong>Reflection:</strong><br>
+</p>
+<p>This final lab brought everything full circle—from raster handling to vector analysis. It was a great capstone to demonstrate what I’ve learned this semester.</p>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->

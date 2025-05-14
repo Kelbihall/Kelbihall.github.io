@@ -29,5 +29,5 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: Lux
     css: styles.css 

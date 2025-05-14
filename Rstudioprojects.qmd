@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 format: html
+editor: visual
 ---
 
 # Lab Projects
@@ -15,13 +16,33 @@ In this lab, I created my own personal website using Quarto and GitHub Pages. I 
 
 This lab helped me set the foundation for sharing my work publicly. It was empowering to build a site from scratch and understand how version control works through GitHub.
 
-### Lab 2: Spatial Thinking and Elevation
+### **Lab 2: Minnesota tree growth**
 
-I explored digital elevation data by importing a raster file and analyzing the terrain of Fort Collins. I used R to calculate elevation statistics and visualize patterns in topography.
+Manipulating and summarizing data with dplyr explored digital elevation data by importing a raster file and analyzing the terrain of Fort Collins. I used R to calculate elevation statistics and visualize patterns in topography.
+
+## Lab 2: Manipulating and summarizing data with dplyr
+
+Here’s a snapshot of the raw data before cleaning:
+
+Rows: 131,386
+Columns: 8
+$ treeID  <int> 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, …
+$ standID <int> 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, …
+$ stand   <chr> "A1", "A1", "A1", "A1", "A1", "A1", "A1…
+$ year    <int> 1960, 1961, 1962, 1963, 1964, 1965, 196…
+$ species <chr> "ABBA", "ABBA", "ABBA", "ABBA", "ABBA",…
+$ age     <int> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, …
+$ inc     <dbl> 0.930, 0.950, 0.985, 0.985, 0.715, 0.84…
+
+
+After cleaning and transforming the data, I was able to calculate tree diameter (DBH), basal area (BA), and categorize trees into DBH classes. I also used summary statistics to analyze growth patterns by species and over time.
 
 **Reflection:**\
+This lab taught me how to use `dplyr` to clean and summarize a large dataset efficiently. It gave me a strong foundation in data wrangling—filtering, grouping, and creating new variables—all essential for ecological analysis.
 
-I gained confidence working with raster data and learned how to extract meaningful information from elevation layers using `terra` and `ggplot`.
+![](img/lab2.png)
+
+**Reflection:** This lab taught me how to filter, transform, and summarize large ecological datasets using `dplyr`. I used functions like `mutate()`, `case_when()`, and `group_by()` to derive insights like tree basal area and size class.
 
 ### Lab 3: Raster Histograms and Visualization
 
@@ -71,7 +92,7 @@ I mapped XGBoost model predictions across the CONUS region using geospatial tool
 
 It was exciting to see model outputs visualized across a real geographic scale. This helped me connect statistical modeling with spatial insight.
 
-### Lab 9: County Level Population and Land Use
+### Lab 9: County-Level Population and Land Use
 
 I joined raster and vector data to explore land cover and population distributions. I used spatial joins to identify intersections between counties and land cover types.
 

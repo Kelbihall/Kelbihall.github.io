@@ -25,7 +25,6 @@ navbar:
       icon: github  
       href: "https://github.com/Kelbihall"
       target: "_blank"
-
 ---
 
 *Sustainability Student | Circular Fashion Advocate | Photographer*
