@@ -11,7 +11,9 @@ Welcome to my RStudio project portfolio! Here’s what I’ve learned from each 
 
 In this lab, I created my own personal website using Quarto and GitHub Pages. I learned how to structure a `.qmd` file, edit the YAML header, and deploy content to a live site.
 
-**Reflection:**\
+***This is the Website you're looking at now!***
+
+**Reflection:**
 
 This lab helped me set the foundation for sharing my work publicly. It was empowering to build a site from scratch and understand how version control works through GitHub.
 
@@ -22,7 +24,6 @@ This lab helped me set the foundation for sharing my work publicly. It was empow
 I explored digital elevation data by importing a raster file and analyzing the terrain of Fort Collins. I used R to calculate elevation statistics and visualize patterns in topography.
 
 **Reflection:**\
-
 I gained confidence working with raster data and learned how to extract meaningful information from elevation layers using `terra` and `ggplot`.
 
 ### Lab 3: Raster Histograms and Visualization
@@ -45,7 +46,7 @@ I performed raster calculations including unit conversions from centimeters to f
 
 It was helpful to manipulate elevation data directly and explore how raster math can inform environmental analysis.
 
-### Lab 5: Raster Reprojection and Cropping
+### Lab 5: Project Proposals 
 
 In this lab, I developed a formal proposal for my final course project. I selected a research question related to environmental data analysis, identified a relevant dataset, and outlined the methods I planned to use.
 
@@ -53,7 +54,7 @@ In this lab, I developed a formal proposal for my final course project. I select
 
 **Reflection:**
 
-This lab gave me the opportunity to connect my interests in sustainability and data science through a real-world research lens. It helped me organize my thoughts, clarify my goals, and build a roadmap for completing a meaningful and structured final analysis.
+This lab gave me the opportunity to connect my interests in sustainability and data science through research. It helped me organize my thoughts, clarify my goals, and build a roadmap for completing a meaningful and structured final analysis.
 
 ### Lab 6: Machine Learning with CAMELS
 
@@ -65,14 +66,14 @@ I used the CAMELS dataset to predict mean streamflow (`q_mean`) using an XGBoost
 
 This was my first time implementing a full machine learning workflow. I learned how important clean data and model tuning are for accurate environmental predictions.
 
-### Lab 7: Data Cleaning with CAMELS
+### Lab 7: Final Project Intro and Methods
 
-Building off Lab 6, I performed deeper data cleaning, handled missing values, and examined data distributions to prepare for more robust modeling.
+We set up our final project as a collaborative Quarto manuscript linked to GitHub. As a team, we drafted our introduction, explored the dataset, created visualizations, and outlined initial methods and challenges.
 
 ![](img/Screen Shot 2025-05-14 at 4.46.05 PM.png)
 
 **Reflection:**\
-This lab taught me how to recognize and handle messy environmental data and the value of preprocessing in any analysis pipeline.
+This lab helped us move from planning to action. It clarified our goals, revealed early data issues, and gave us a solid foundation to build our final analysis.
 
 ### Lab 8: Modeling and Mapping Predictions
 
@@ -83,15 +84,15 @@ I mapped XGBoost model predictions across the CONUS region using geospatial tool
 **Reflection:**\
 It was exciting to see model outputs visualized across a real geographic scale. This helped me connect statistical modeling with spatial insight.
 
-### Lab 9: County Level Population and Land Use
+### Lab 9:  Project Introduction, Data, Methods
 
-I joined raster and vector data to explore land cover and population distributions. I used spatial joins to identify intersections between counties and land cover types.
+We expanded our final project by drafting the methods, results, and discussion sections. We organized our analysis into written form, shared key findings through visualizations, and reflected on the significance and limitations of our results.
 
 ![](img/9.png){width="567"}
 
-**Reflection:**\
+**Reflection:**
 
-This lab improved my skills working with multiple spatial data types and set the stage for real-world environmental planning.
+This lab helped translate our technical work into clear communication. Writing out the methods and results clarified what we had accomplished and what questions still remained.\
 
 ### Lab 10: Distance from the Border Zone
 
@@ -102,11 +103,11 @@ I analyzed spatial proximity to the U.S. border zone and explored how distance c
 **Reflection:**\
 This lab was a great example of how spatial analysis applies to real policy issues. It challenged me to think critically about data and ethics.
 
-### Lab 11: River Profile of the Cache la Poudre
+### Lab 11: Final Project Presentation
 
-I extracted a river profile using OpenStreetMap and DEM data, calculated the river's slope and sinuosity, and plotted its elevation profile.
+My team delivered a 7-minute lightning talk summarizing our final research project. We presented the background, research question, key results, and conclusions, supported by two core visualizations. We focused on communicating our methods and findings clearly and concisely.
 
 ![](img/11.png){width="483"}
 
 **Reflection:**\
-This final lab brought everything full circle—from raster handling to vector analysis. It was a great capstone to demonstrate what I’ve learned this semester.
+This talk was a great exercise in science communication. Condensing a full analysis into a short presentation pushed us to focus on what really mattered and helped us practice explaining technical work to a broader audience.got a
